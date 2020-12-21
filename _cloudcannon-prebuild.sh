@@ -1,2 +1,2 @@
 npm i
-npx next export
+# npx next export
