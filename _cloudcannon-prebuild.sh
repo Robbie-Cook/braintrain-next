@@ -1,2 +1,2 @@
 npm i
-npm run build
+npx next export
